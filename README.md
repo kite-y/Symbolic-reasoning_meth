@@ -20,4 +20,6 @@
     ◦ 精确要求高、确定性任务等
 
 • 备注：核心在于模糊与可定义之间交界点化为结构化输出
-本方法论文档采用 CC BY-NC 4.0 许可
+
+## 许可证 
+本方法论文档采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)许可协议
